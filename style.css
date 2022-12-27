@@ -4,11 +4,11 @@
 
 img {
 	width:280px;
-	left:180px;
-   position: relative; 
-   border-radius: 100%;
-   top:240px;
-   border: 5px solid #0000FF;
+	left:200px;
+        position: relative; 
+        border-radius: 100%;
+        top:260px;
+        border: 5px solid #0000FF;
 }
 
 .grid-2{
